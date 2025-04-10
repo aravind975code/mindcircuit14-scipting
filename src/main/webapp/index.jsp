@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Sample Page</title>
+    <title>Aravind</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Sample HTML Page</h1>
+    <h1>Welcome to My Aravind HTML Page</h1>
     <p>This is a simple HTML page for testing or demo purposes.</p>
 </body>
 </html>
